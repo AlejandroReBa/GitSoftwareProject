@@ -1,5 +1,5 @@
 # GitSoftwareProject
-Try Git in Operative Sistems subject (UMA)
+Try Git in IIS (UMA)
 
 We are students of software engineering in UMA (Spain). 
 This is only "our first repository on GitHub", trying to learn something about SCV like Git, one of the most known at present.
